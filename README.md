@@ -5,10 +5,11 @@ In this repository are stored diverse data science projects completed by me eith
 
 - ### Data Analysis and Visualisation
 	- __Python__
+        - [Workers Migrations in France - Data Exploration and Plotting](https://github.com/willyGitHub18/Personnal_Project_DataVizualisation_WorkMigrations) : Animated plot of France's workers migrations between place of residence and workplace.
         - [NYC Public Schools SAT Scores Analysis](https://github.com/willyGitHub18/Data_Projects/tree/master/Analyzing_NYC%20High_School%20Data_SAT_Scores) : Cleaning and exploratory analysis of the SAT scores with regards to demographic factors in New York City.
 		- [eBay Cars Sales Data - Cleaning and Basic Exploration](https://github.com/willyGitHub18/Data_Projects/tree/master/Exploring_Ebay_Car_Sales_Data) : Simple cleaning and primary exploration of the data for *eBay Kleinanzeigen*, a classifieds section of the German eBay website.
         - [FiveThirtyEight Star Wars Survey - Exploratory Analysis](https://github.com/willyGitHub18/Data_Projects/tree/master/Star_Wars_Survey_Analysis) : Exploration of [FiveThirtyEight](https://fivethirtyeight.com/) collected data from Star Wars fans.
 
-        _Tools: Pandas, NumPy, Seaborn and Matplotlib_
+        _Main Tools: Pandas, NumPy, Seaborn and Matplotlib, D3.js_
 
 
