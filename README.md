@@ -12,4 +12,7 @@ In this repository are stored diverse data science projects completed by me eith
 
         _Main Tools: Pandas, NumPy, Seaborn and Matplotlib, D3.js_
 
+    - __SQL__
+            - [CIA Factbook - Basic Exploratory Analysis](https://github.com/willyGitHub18/Data_Science_Portfolio/tree/master/CIA_Factbook_Data_Analysis_SQL) : Using some of SQL queries techniques to explore CIA's world factbook database.
+
 
